@@ -1,0 +1,4 @@
+swarmauri[full]
+PyPDF2
+python-dotenv
+gradio
